@@ -1,0 +1,2 @@
+# Describe specific reciever points
+250,0,0

@@ -1,0 +1,2 @@
+# Describe wall location and height in format:ID, Tag String, X1, Y1, X2, Y2, Height (Wall cannot be fully horizontal or vertical to main axis).
+1,Wall1,0,0,0,0
